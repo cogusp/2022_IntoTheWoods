@@ -7,7 +7,7 @@
 
   <!-- Introduce -->
   <h4> 👾 새로 변하는 능력을 얻은 늑대가 하수도에서 지상으로 탈출하는 게임 </h4>
-  <h4> 🛠️ 1인 개발 </h4>
+  <h4> 🛠️ 1인 개발 (2022)</h4>
   
   <!-- Link -->
   <h4> 🔗 https://drive.google.com/file/d/1GfKsiClOWlOWB6IazmZ1QDfkwGHzZ-c1/view?usp=drive_link </h4>
